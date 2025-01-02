@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm Ming Senn Teo!
 - 🌱 I graduated from UC Berkeley studying Data Science
 - 🔭 I’m interested in building products that empower data-backed decision making
-- 📫 Reach me at evanpfeifer@berkeley.edu
+- 📫 Reach me at mingsennteo@berkeley.edu
